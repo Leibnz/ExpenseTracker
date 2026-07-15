@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		4946895830069EFE0087E8BF /* ExpenseTracker */ = {
+		494689AC3007FF290087E8BF /* ExpenseTracker */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = ExpenseTracker;
 			sourceTree = "<group>";
@@ -32,7 +32,7 @@
 		4946894D30069EFE0087E8BF = {
 			isa = PBXGroup;
 			children = (
-				4946895830069EFE0087E8BF /* ExpenseTracker */,
+				494689AC3007FF290087E8BF /* ExpenseTracker */,
 				4946895730069EFE0087E8BF /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				4946895830069EFE0087E8BF /* ExpenseTracker */,
+				494689AC3007FF290087E8BF /* ExpenseTracker */,
 			);
 			name = ExpenseTracker;
 			packageProductDependencies = (
